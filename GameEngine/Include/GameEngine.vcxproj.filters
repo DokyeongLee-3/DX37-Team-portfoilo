@@ -315,33 +315,6 @@
     <ClCompile Include="IMGUIWindow.cpp">
       <Filter>01. Engine\08. IMGUI\02. Window</Filter>
     </ClCompile>
-    <ClCompile Include="IMGUIButton.cpp">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClCompile>
-    <ClCompile Include="IMGUIComboBox.cpp">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClCompile>
-    <ClCompile Include="IMGUIImage.cpp">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClCompile>
-    <ClCompile Include="IMGUILabel.cpp">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClCompile>
-    <ClCompile Include="IMGUIListBox.cpp">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClCompile>
-    <ClCompile Include="IMGUISameLine.cpp">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClCompile>
-    <ClCompile Include="IMGUIText.cpp">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClCompile>
-    <ClCompile Include="IMGUITextInput.cpp">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClCompile>
-    <ClCompile Include="IMGUIWidget.cpp">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClCompile>
     <ClCompile Include="Thread.cpp">
       <Filter>01. Engine\09. Thread</Filter>
     </ClCompile>
@@ -684,6 +657,90 @@
     <ClCompile Include="Render\RasterizerState.cpp">
       <Filter>06. Render\01. RenderState</Filter>
     </ClCompile>
+    <ClCompile Include="IMGUIBeginMenu.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIButton.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUICheckBox.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIChild.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIColor3.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIColor4.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIComboBox.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIDummy.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIImage.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIInputFloat.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIInputFloat2.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIInputFloat3.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIInputInt.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIInputInt2.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUILabel.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIListBox.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIMainMenuBar.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIMenuItem.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIPopUpModal.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIRadioButton.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUISameLine.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUISliderFloat.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUISliderInt.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIText.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUITextInput.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUITree.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIWidget.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="IMGUIWidgetList.cpp">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Device.h">
@@ -754,33 +811,6 @@
     </ClInclude>
     <ClInclude Include="IMGUIWindow.h">
       <Filter>01. Engine\08. IMGUI\02. Window</Filter>
-    </ClInclude>
-    <ClInclude Include="IMGUIButton.h">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClInclude>
-    <ClInclude Include="IMGUIComboBox.h">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClInclude>
-    <ClInclude Include="IMGUIImage.h">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClInclude>
-    <ClInclude Include="IMGUILabel.h">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClInclude>
-    <ClInclude Include="IMGUIListBox.h">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClInclude>
-    <ClInclude Include="IMGUISameLine.h">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClInclude>
-    <ClInclude Include="IMGUIText.h">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClInclude>
-    <ClInclude Include="IMGUITextInput.h">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
-    </ClInclude>
-    <ClInclude Include="IMGUIWidget.h">
-      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
     </ClInclude>
     <ClInclude Include="Sync.h">
       <Filter>01. Engine\09. Thread</Filter>
@@ -1138,6 +1168,93 @@
     </ClInclude>
     <ClInclude Include="Render\RasterizerState.h">
       <Filter>06. Render\01. RenderState</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIBeginMenu.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIButton.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUICheckBox.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIChild.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIColor3.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIColor4.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIComboBox.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIDummy.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIImage.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIInfo.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIInputFloat.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIInputFloat2.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIInputFloat3.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIInputInt.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIInputInt2.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUILabel.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIListBox.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIMainMenuBar.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIMenuItem.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIPopUpModal.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIRadioButton.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUISameLine.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUISliderFloat.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUISliderInt.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIText.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUITextInput.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUITree.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIWidget.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="IMGUIWidgetList.h">
+      <Filter>01. Engine\08. IMGUI\03. Widget</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
