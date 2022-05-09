@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+<<<<<<< .mine
+      <FullPath>C:\AssortRock37th\Lecture\DirectX11\AR37PF1\Editor\Bin\Editor_Debug.exe</FullPath>
+||||||| .r2
+      <FullPath>D:\ParkLecture\37th\DXEngine\Editor\Bin\Editor_Debug.exe</FullPath>
+=======
+      <FullPath>D:\Study\AR37PF1\Editor\Bin\Editor_Debug.exe</FullPath>
+>>>>>>> .r3
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

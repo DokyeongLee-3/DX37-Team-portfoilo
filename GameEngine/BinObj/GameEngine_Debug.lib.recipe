@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+<<<<<<< .mine
+      <FullPath>C:\AssortRock37th\Lecture\DirectX11\AR37PF1\GameEngine\Bin\AnimationUpdate.cso</FullPath>
+||||||| .r2
+      <FullPath>D:\ParkLecture\37th\DXEngine\GameEngine\Bin\AnimationUpdate.cso</FullPath>
+=======
+      <FullPath>D:\Study\AR37PF1\GameEngine\Bin\AnimationUpdate.cso</FullPath>
+>>>>>>> .r3
+    </ContentFile>
+    <ContentFile>
+<<<<<<< .mine
+      <FullPath>C:\AssortRock37th\Lecture\DirectX11\AR37PF1\GameEngine\Bin\Collider.cso</FullPath>
+||||||| .r2
+      <FullPath>D:\ParkLecture\37th\DXEngine\GameEngine\Bin\Collider.cso</FullPath>
+=======
+      <FullPath>D:\Study\AR37PF1\GameEngine\Bin\Collider.cso</FullPath>
+>>>>>>> .r3
+    </ContentFile>
+    <ContentFile>
+<<<<<<< .mine
+      <FullPath>C:\AssortRock37th\Lecture\DirectX11\AR37PF1\GameEngine\Bin\ColorMesh.cso</FullPath>
+||||||| .r2
+      <FullPath>D:\ParkLecture\37th\DXEngine\GameEngine\Bin\ColorMesh.cso</FullPath>
+=======
+      <FullPath>D:\Study\AR37PF1\GameEngine\Bin\ColorMesh.cso</FullPath>
+>>>>>>> .r3
+    </ContentFile>
+    <ContentFile>
+<<<<<<< .mine
+      <FullPath>C:\AssortRock37th\Lecture\DirectX11\AR37PF1\GameEngine\Bin\Mesh2D.cso</FullPath>
+||||||| .r2
+      <FullPath>D:\ParkLecture\37th\DXEngine\GameEngine\Bin\Mesh2D.cso</FullPath>
+=======
+      <FullPath>D:\Study\AR37PF1\GameEngine\Bin\Light.cso</FullPath>
+>>>>>>> .r3
+    </ContentFile>
+    <ContentFile>
+<<<<<<< .mine
+      <FullPath>C:\AssortRock37th\Lecture\DirectX11\AR37PF1\GameEngine\Bin\Particle.cso</FullPath>
+||||||| .r2
+      <FullPath>D:\ParkLecture\37th\DXEngine\GameEngine\Bin\Particle.cso</FullPath>
+=======
+      <FullPath>D:\Study\AR37PF1\GameEngine\Bin\Mesh2D.cso</FullPath>
+>>>>>>> .r3
+    </ContentFile>
+    <ContentFile>
+<<<<<<< .mine
+      <FullPath>C:\AssortRock37th\Lecture\DirectX11\AR37PF1\GameEngine\Bin\Standard3D.cso</FullPath>
+||||||| .r2
+      <FullPath>D:\ParkLecture\37th\DXEngine\GameEngine\Bin\Standard3D.cso</FullPath>
+=======
+      <FullPath>D:\Study\AR37PF1\GameEngine\Bin\Particle.cso</FullPath>
+>>>>>>> .r3
+    </ContentFile>
+    <ContentFile>
+<<<<<<< .mine
+      <FullPath>C:\AssortRock37th\Lecture\DirectX11\AR37PF1\GameEngine\Bin\TileMap.cso</FullPath>
+||||||| .r2
+      <FullPath>D:\ParkLecture\37th\DXEngine\GameEngine\Bin\TileMap.cso</FullPath>
+=======
+      <FullPath>D:\Study\AR37PF1\GameEngine\Bin\Standard3D.cso</FullPath>
+>>>>>>> .r3
+    </ContentFile>
+    <ContentFile>
+<<<<<<< .mine
+      <FullPath>C:\AssortRock37th\Lecture\DirectX11\AR37PF1\GameEngine\Bin\Widget.cso</FullPath>
+||||||| .r2
+      <FullPath>D:\ParkLecture\37th\DXEngine\GameEngine\Bin\Widget.cso</FullPath>
+=======
+      <FullPath>D:\Study\AR37PF1\GameEngine\Bin\TileMap.cso</FullPath>
+>>>>>>> .r3
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Study\AR37PF1\GameEngine\Bin\Widget.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
